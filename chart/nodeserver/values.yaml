@@ -3,8 +3,8 @@
 replicaCount: 3
 revisionHistoryLimit: 1
 image:
-  repository: nisargmankad/nodeserver
-  tag: 1.2.0
+  repository: nmankad/nodeserver
+  tag: 1.1.0
   pullPolicy: IfNotPresent 
   resources:
     requests:
